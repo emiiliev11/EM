@@ -1,0 +1,16 @@
+{
+  "name": "2D City Drift Syndicate",
+  "short_name": "CityDrift",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#07080c",
+  "theme_color": "#00d2d3",
+  "icons": [
+    {
+      "src": "./assets/car_player.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
